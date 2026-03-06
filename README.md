@@ -4,3 +4,5 @@ This repository contains basic Java exercises developed during my studies in Sys
 
 ## Projects
 - Rectangle area calculator
+- Simple calculator
+- 
