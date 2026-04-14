@@ -9,4 +9,4 @@ This repository contains basic Java exercises developed during my studies in Sys
 - @Deprecated and @SuppressWarnings
 - For-each/loops
 - Arrays
-- immutability using final
+- Immutability using final
