@@ -7,5 +7,4 @@ This repository contains basic Java exercises developed during my studies in Sys
 - Simple calculator
 - Method overriding
 - @Deprecated and @SuppressWarnings
-- Switch - Default
-- For/loops
+- For-each/loops
