@@ -8,3 +8,4 @@ This repository contains basic Java exercises developed during my studies in Sys
 - Method overriding
 - @Deprecated and @SuppressWarnings
 - For-each/loops
+- Arrays
