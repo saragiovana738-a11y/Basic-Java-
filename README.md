@@ -6,3 +6,4 @@ This repository contains basic Java exercises developed during my studies in Sys
 - Rectangle area calculator
 - Simple calculator
 - Method overriding
+- @Deprecated and @SuppressWarnings 
